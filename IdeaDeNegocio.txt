@@ -1,0 +1,8 @@
+Plan de negocio de la página web del restaurante “Venecia”
+Lo propuesto en el presente plan, es la creación de una página web para el restaurante “Venecia” 
+ubicado en la ciudad de Morelia; gracias a las características  como la calidad en el servicio, 
+y por supuesto, en la auténtica comida italiana que ahí se ofrece, pero, sobre todo, se pretende 
+que se diferencie de sus competidores por el uso de la tecnología en sus operaciones; 
+lo que le permitirá al cliente realizar reservaciones desde la página, visualizar menús, localización, 
+eventos próximos, etc. Esta característica dará un atractivo extra al restaurante, muy diferente a 
+lo que se ve tradicionalmente en la ciudad de Morelia.
