@@ -1,8 +1,22 @@
-Plan de negocio de la p�gina web del restaurante �Venecia�
-Lo propuesto en el presente plan, es la creaci�n de una p�gina web para el restaurante �Venecia� 
-ubicado en la ciudad de Morelia; gracias a las caracter�sticas  como la calidad en el servicio, 
-y por supuesto, en la aut�ntica comida italiana que ah� se ofrece, pero, sobre todo, se pretende 
-que se diferencie de sus competidores por el uso de la tecnolog�a en sus operaciones; 
-lo que le permitir� al cliente realizar reservaciones desde la p�gina, visualizar men�s, localizaci�n, 
-eventos pr�ximos, etc. Esta caracter�stica dar� un atractivo extra al restaurante, muy diferente a 
+Plan de negocio de la página web del restaurante “Venecia”
+Lo propuesto en el presente plan, es la creación de una página web para el restaurante “Venecia” 
+ubicado en la ciudad de Morelia; gracias a las características  como la calidad en el servicio, 
+y por supuesto, en la auténtica comida italiana que ahí se ofrece, pero, sobre todo, se pretende 
+que se diferencie de sus competidores por el uso de la tecnología en sus operaciones; 
+lo que le permitirá al cliente realizar reservaciones desde la página, visualizar menús, localización, 
+eventos próximos, etc. Esta característica dará un atractivo extra al restaurante, muy diferente a 
 lo que se ve tradicionalmente en la ciudad de Morelia.
+
+Propuesta de su arquitectura.
+La página contará con una barra de menú horizontal, en  la cual las opciones tentativas del menú serán:
+-Home
+-Historia/Quienes Somos
+-Menú
+-Eventos
+-Ubicaciones/Contacto
+-Reservaciones
+En la opción home únicamente se vera la página principal con su logo, el nombre del restaurante.
+La opicón menú contará con nuestros menus, asi como algunos de temporada.
+Eventos, se actulizará cada mes según el evento que se tenga planeado. Por ejemplo, en Diciembre: Navidad y cena de año nuevo.
+Ubicaciones, se mostrará el mapa de todas nuestras sucursales en la ciudad, además de proporcionar al público un número telefónico para reservaciones y un e-mail para sugerencias o dudas; Todo esto con el fin de brindar un mejor servicio al cliente y estar más en contacto con el.
+Reservaciones, en este apartado se podrán realizarlas reservaciones en linea.
